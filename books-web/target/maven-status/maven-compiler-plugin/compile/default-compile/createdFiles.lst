@@ -1,0 +1,11 @@
+com/sismics/books/rest/resource/ThemeResource.class
+com/sismics/books/rest/resource/UserResource.class
+com/sismics/books/rest/resource/TagResource.class
+com/sismics/books/rest/constant/BaseFunction.class
+com/sismics/books/rest/resource/LocaleResource.class
+com/sismics/books/rest/resource/ConnectResource$1.class
+com/sismics/books/rest/resource/TextPlainMessageBodyWriter.class
+com/sismics/books/rest/resource/ConnectResource.class
+com/sismics/books/rest/resource/AppResource.class
+com/sismics/books/rest/resource/BaseResource.class
+com/sismics/books/rest/resource/BookResource.class
